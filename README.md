@@ -1,4 +1,4 @@
-[![Devon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevonJenkins)](https://github.com/DevonJenkins/github-readme-statsvercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Devon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevonJenkins&show_icons=true&theme=radical)
 
 <!--
 **DevonJenkins/DevonJenkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
